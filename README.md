@@ -51,8 +51,8 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 </p>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="48%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="48%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie&theme=radical" width="48%" /> -->
 </p>
 
 <p align="center">

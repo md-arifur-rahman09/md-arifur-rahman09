@@ -36,9 +36,10 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ### 🧩 Featured Projects
 
-- 🎯 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest) – A Firebase-based plant shopping app
-- 📅 [**Lawyer Appointment App**](https://github.com/md-arifur-rahman09/lawyer-booking-client) – Recharts integrated legal service booking
-- 🌐 [**Premier League Explorer**](https://github.com/md-arifur-rahman09/epl-events) – Football event app with React & Firebase
+- 🎯 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest-client) – A Firebase-based plant shopping app
+
+- 🏃‍♂️ [**The Athletic Hub**](https://github.com/md-arifur-rahman09/Athletic-Hub-client) – A dynamic MERN Stack event management app for sports enthusiasts with secure user authentication and search/filter features.
+
 
 ---
 
@@ -99,10 +100,6 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ---
 
-### ⚡ Quote I Live By
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
----
 
-⭐️ Don’t forget to star my repositories and follow me for more cool projects!

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://files.openai.com/md-arifur-rahman-banner.png](https://camo.githubusercontent.com/55aff4ecfb3d7bdd64b51afd1346c982a7bcb8ad0bb2977c32f7f2fb55cf31d3/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)" alt="MD Arifur Rahman | MERN Stack Developer" />
+  <img src="https://kinsta.com/wp-content/uploads/2023/02/github-pages.jpg" alt="MD Arifur Rahman | MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm MD Arifur Rahman 👋</h1>

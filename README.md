@@ -74,13 +74,7 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ---
 
-### 📚 Currently Learning
 
-- 📦 Redux Toolkit
-- 💻 TypeScript
-- ⛓️ Next.js
-
----
 
 ### 🎯 Goals
 

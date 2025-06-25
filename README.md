@@ -49,7 +49,7 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 ### 📫 Contact Me
 
 - ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman09](https://linkedin.com/in/md-arifur-rahman09)
+- 💼 LinkedIn: [https://www.linkedin.com/in/md-arifur-rahman-144296267/)
 - 🌐 Portfolio: *Coming Soon...*
 - 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)
 

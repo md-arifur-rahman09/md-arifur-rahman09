@@ -33,9 +33,15 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ---
 
+### 🧩 Featured Projects
+
+- 🎯 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest) – A Firebase-based plant shopping app
+- 📅 [**Lawyer Appointment App**](https://github.com/md-arifur-rahman09/lawyer-booking-client) – Recharts integrated legal service booking
+- 🌐 [**Premier League Explorer**](https://github.com/md-arifur-rahman09/epl-events) – Football event app with React & Firebase
+
 ---
 
-### 📊 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-arifur-rahman09&show_icons=true&theme=radical" width="48%" />
@@ -44,22 +50,52 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-arifur-rahman09&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=md-arifur-rahman09&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
+### 🔧 Tools I Use
+
+- VS Code, GitHub, Git, Postman, Figma
+- Chrome DevTools, Vercel, Netlify, Firebase Hosting
+
+---
+
+### 📚 Currently Learning
+
+- 📦 Redux Toolkit
+- 💻 TypeScript
+- 🔐 JWT Authentication
+- ⛓️ Next.js
+
+---
+
+### 🎯 Goals
+
+- ✅ Contribute to open-source projects
+- 🚀 Launch my own SaaS project
+- 💼 Land a remote developer role
+
+---
+
+### 🤝 Let’s Collaborate
+
+- 💡 Have a project idea? Let's build it together.
+- 👨‍👩‍👧‍👦 I love collaborating with passionate devs & designers.
+
+---
 
 ### 📫 Contact Me
 
 - ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/md-arifur-rahman-144296267/)
-- 🌐 Portfolio: *Coming Soon...*
+- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman-144296267/)
 - 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)
+- 🌐 Portfolio: _Coming Soon..._
 
 ---
 
@@ -70,20 +106,3 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 ---
 
 ⭐️ Don’t forget to star my repositories and follow me for more cool projects!
-
-
-
-<!--
-**md-arifur-rahman09/md-arifur-rahman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

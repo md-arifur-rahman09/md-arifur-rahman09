@@ -3,6 +3,9 @@
 <p align="center">
   <b>MERN Stack Web Developer | Passionate Problem Solver | Lifelong Learner</b>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+Developer;React,+Node,+MongoDB+Expert;Open+Source+Contributor;Lifelong+Learner" />
+</p>
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kinsta.com/wp-content/uploads/2023/02/github-pages.jpg" alt="MD Arifur Rahman | MERN Stack Developer" />
+  <img src="https://i.postimg.cc/kMpKSVLC/github.png" alt="MD Arifur Rahman | MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm MD Arifur Rahman 👋</h1>

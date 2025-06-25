@@ -33,7 +33,9 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-arifur-rahman09&show_icons=true&theme=radical" width="48%" />
@@ -41,13 +43,16 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="50%"/>
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie" width="48%" />
+</p>
 
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-arifur-rahman09&color=blue" alt="visitor badge"/>
 </p>
 
 ---
+
 
 ### 📫 Contact Me
 

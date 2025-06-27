@@ -53,7 +53,7 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-arifur-rahman09&show_icons=true&theme=radical" width="48%" />
-<img src="https://streak-stats.demolab.com?user=md-arifur-rahman09&theme=radical" width="48%" />
+<img src="https://streak-stats.herokuapp.com?user=md-arifur-rahman09&theme=radical" width="48%" />
 
 </p>
 

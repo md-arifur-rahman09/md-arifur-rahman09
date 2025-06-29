@@ -8,17 +8,17 @@
   <b>MERN Stack Web Developer | Passionate Problem Solver | Lifelong Learner</b>
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
 
-I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, specializing in building dynamic and responsive web applications using the **MERN Stack**.
+I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩.  
+I specialize in building dynamic, scalable, and responsive web applications using the **MERN Stack**.
 
-- 🔭 I’m currently working on building real-life full stack applications
-- 🌱 Always learning modern JavaScript frameworks and backend technologies
-- 💬 Ask me anything about **React, Node.js, MongoDB, Express**
-- ⚡ Fun fact: I believe clean code = happy life ☕️
+- 🔭 I’m currently working on building real-life full stack applications  
+- 🌱 I’m always learning modern JavaScript frameworks and backend technologies  
+- 💬 Ask me anything about **React, Node.js, MongoDB, Express**  
+- ⚡ Fun fact: I believe **clean code = happy life** ☕️  
 
 ---
 
@@ -35,17 +35,17 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  
 </p>
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🎯 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest-client) – A Firebase-based plant shopping app
+- 🌿 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest-client)  
+  A Firebase-based plant shopping app built with React and TailwindCSS.
 
-- 🏃‍♂️ [**The Athletic Hub**](https://github.com/md-arifur-rahman09/Athletic-Hub-client) – A dynamic MERN Stack event management app for sports enthusiasts with secure user authentication and search/filter features.
-
+- 🏃‍♂️ [**The Athletic Hub**](https://github.com/md-arifur-rahman09/Athletic-Hub-client)  
+  A full-featured MERN Stack event management platform for sports lovers with secure login, search, and booking.
 
 ---
 
@@ -53,13 +53,11 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-arifur-rahman09&show_icons=true&theme=radical" width="48%" />
-<img src="https://streak-stats.herokuapp.com?user=md-arifur-rahman09&theme=radical" width="48%" />
-
+  <img src="https://streak-stats.herokuapp.com?user=md-arifur-rahman09&theme=radical" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=compact&theme=radical" width="48%" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arifur-rahman09&layout=pie&theme=radical" width="48%" /> -->
 </p>
 
 <p align="center">
@@ -70,37 +68,31 @@ I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩, sp
 
 ### 🔧 Tools I Use
 
-- VS Code, GitHub, Git, Postman, Figma
+- VS Code, GitHub, Git, Postman, Figma  
 - Chrome DevTools, Vercel, Netlify, Firebase Hosting
 
 ---
 
-
-
 ### 🎯 Goals
 
-- ✅ Contribute to open-source projects
-- 🚀 Launch my own SaaS project
-- 💼 Land a remote developer role
+- ✅ Contribute to open-source projects  
+- 🚀 Launch my own SaaS project  
+- 💼 Land a remote developer role  
 
 ---
 
 ### 🤝 Let’s Collaborate
 
-- 💡 Have a project idea? Let's build it together.
-- 👨‍👩‍👧‍👦 I love collaborating with passionate devs & designers.
+- 💡 Have a project idea? Let's build it together  
+- 👨‍👩‍👧‍👦 I love collaborating with passionate devs & designers  
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman-144296267/)
-- 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)
-- 🌐 Portfolio: _Coming Soon..._
+- ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman-144296267/)  
+- 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)  
+- 🌐 Portfolio: [https://arifur-rahman09.web.app](https://arifur-rahman09.web.app)  
 
 ---
-
-
-
-

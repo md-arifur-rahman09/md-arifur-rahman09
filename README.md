@@ -91,7 +91,7 @@ I specialize in building dynamic, scalable, and responsive web applications usin
 ### 📫 Contact Me
 
 - ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman-144296267/)  
+- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman09/)  
 - 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)  
 - 🌐 Portfolio: [https://arifur-rahman09.web.app](https://arifur-rahman09.web.app)  
 

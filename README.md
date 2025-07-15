@@ -5,19 +5,18 @@
 <h1 align="center">Hi, I'm MD Arifur Rahman 👋</h1>
 
 <p align="center">
-  <b>MERN Stack Web Developer | Passionate Problem Solver | Lifelong Learner</b>
+  <b>Full Stack MERN Developer | Problem Solver | Lifelong Learner</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a passionate **Full Stack Web Developer** from **Bangladesh** 🇧🇩.  
-I specialize in building dynamic, scalable, and responsive web applications using the **MERN Stack**.
+I’m a passionate **Full Stack Web Developer** from **Bangladesh 🇧🇩**, committed to building modern, scalable, and performant web applications using the **MERN Stack**.
 
-- 🔭 I’m currently working on building real-life full stack applications  
-- 🌱 I’m always learning modern JavaScript frameworks and backend technologies  
-- 💬 Ask me anything about **React, Node.js, MongoDB, Express**  
+- 🔭 Currently developing full-stack real-world applications  
+- 🌱 Continuously learning new frameworks, tools, and backend architecture  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Firebase**  
 - ⚡ Fun fact: I believe **clean code = happy life** ☕️  
 
 ---
@@ -42,10 +41,13 @@ I specialize in building dynamic, scalable, and responsive web applications usin
 ### 🧩 Featured Projects
 
 - 🌿 [**Flora Nest**](https://github.com/md-arifur-rahman09/flora-nest-client)  
-  A Firebase-based plant shopping app built with React and TailwindCSS.
+  A role-based flower plant booking app with plant care education. Built with React, Tailwind CSS, and Firebase.
 
-- 🏃‍♂️ [**The Athletic Hub**](https://github.com/md-arifur-rahman09/Athletic-Hub-client)  
-  A full-featured MERN Stack event management platform for sports lovers with secure login, search, and booking.
+- 🏃‍♂️ [**Athletic Hub**](https://github.com/md-arifur-rahman09/Athletic-Hub-client)  
+  A full-featured MERN Stack event management platform with secure login, admin dashboard, and dynamic filtering.
+
+- ⚽ [**The EPL Hub**](https://github.com/md-arifur-rahman09/epl-hub-client)  
+  A frontend-only EPL fan platform showcasing posts, tickets, and match-day content with Firebase Auth & Routing.
 
 ---
 
@@ -69,30 +71,30 @@ I specialize in building dynamic, scalable, and responsive web applications usin
 ### 🔧 Tools I Use
 
 - VS Code, GitHub, Git, Postman, Figma  
-- Chrome DevTools, Vercel, Netlify, Firebase Hosting
+- Firebase Hosting, Netlify, Vercel, Chrome DevTools
 
 ---
 
-### 🎯 Goals
+### 🎯 Career Goals
 
-- ✅ Contribute to open-source projects  
-- 🚀 Launch my own SaaS project  
-- 💼 Land a remote developer role  
+- ✅ Contribute to impactful open-source projects  
+- 🚀 Launch and scale a personal SaaS product  
+- 💼 Secure a remote role in a growth-focused tech team  
 
 ---
 
 ### 🤝 Let’s Collaborate
 
-- 💡 Have a project idea? Let's build it together  
-- 👨‍👩‍👧‍👦 I love collaborating with passionate devs & designers  
+- 💡 Got a project idea? I’d love to build and grow it with you  
+- 👥 Open to networking with passionate developers & designers
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: [aimless.arif09@gmail.com](mailto:aimless.arif09@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman-144296267](https://www.linkedin.com/in/md-arifur-rahman09/)  
+- ✉️ Email: [arifur.rahman78910@gmail.com](mailto:arifur.rahman78910@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/md-arifur-rahman09](https://www.linkedin.com/in/md-arifur-rahman09/)  
 - 💻 GitHub: [github.com/md-arifur-rahman09](https://github.com/md-arifur-rahman09)  
-- 🌐 Portfolio: [https://arifur-rahman09.web.app](https://arifur-rahman09.web.app)  
+- 🌐 Portfolio: [arifur-rahman09.web.app](https://arifur-rahman09.web.app)
 
 ---
